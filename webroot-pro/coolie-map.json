@@ -1,0 +1,11 @@
+{
+  "/index.html": {
+    "main": [],
+    "async": [],
+    "js": [],
+    "css": [],
+    "res": [
+      "../webroot-dev/coolie.png"
+    ]
+  }
+}
